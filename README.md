@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hoang
 - 👀 I’m interested in Knowledge Distillation, Self-Play Fine-Tuning, Deep Research Agents, and Principled Optimization
-- 🌱 I’m currently an AI Research Resident at [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence)
+- 🌱 I’m currently an AI Research Resident at [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence) in Vietnam
 - 📫 Reach me: [tranvuonghoang208@gmail.com](mailto:tranvuonghoang208@gmail.com)
 - 🔗 Connect with me on [Google Scholar](https://scholar.google.com/citations?user=Ep7aknoAAAAJ&hl=en)
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/tranvuonghoang/)
